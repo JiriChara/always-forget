@@ -14,19 +14,23 @@ nmap <C-n> :NERDTreeToggle<CR>
 
 ### Most Helpful Shortcuts
 
+```
 i........Open selected file in a split window
 gi.......Same as i, but leave the cursor on the NERDTree
 s........Open selected file in a new vsplit
 gs.......Same as s, but leave the cursor on the NERDTree
 x........Close the current nodes parent
 m........Display the NERDTree menu (move, delete, add childnode, etc.)
+```
 
 ### Kinda Helpful
 
+```
 P........Jump to the root node
 p........Jump to current nodes parent
 I........Toggle whether hidden files displayed
 ?........Toggle the display of the quick help
+```
 
 ---
 
